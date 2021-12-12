@@ -30,7 +30,7 @@ function Portfolio() {
       repo: "https://github.com"
     },
     {
-      name: 'calculator',
+      name: 'Project 3 Inventory Database',
       description: 'React/JavaScript/CSS',
       link: "https://jamatx38.github.io/HOMEWORK-18/",
       repo: "https://github.com/JAMATX38/HOMEWORK-18.git"
