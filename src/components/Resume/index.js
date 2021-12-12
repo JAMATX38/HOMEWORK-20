@@ -7,6 +7,9 @@ function Resume() {
       <p>
         Download my <a href="https://www.linkedin.com/">resume</a>
         </p>
+        <h3>Proficient with Full Stack Coding</h3>
+
+
         <h3>Front-end Proficiencies</h3>
         <ul className="skills">
           <li>HTML</li>
@@ -17,6 +20,7 @@ function Resume() {
           <li>React</li>
           <li>Bootstrap</li>
         </ul>
+        
         <h3>Back-end Proficiencies</h3>
         <ul className="skills">
           <li>APIs</li>

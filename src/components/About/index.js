@@ -8,10 +8,12 @@ function About() {
         <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
         </div>
         <p>
-        Helvetica put a bird on it church-key Blue Bottle banjo bespoke brunch Etsy authentic Marfa quinoa typewriter plaid direct trade small batch wayfarers bicycle rights cliche craft beer gastropub single-origin coffee Godard Carles you probably haven't heard of them irony pickled kitsch synth sriracha gentrify literally heirloom blog Truffaut paleo scenester
+        Hello my name is Jaime Martinez and I am a new graduate of University of Texas Coding BootCamp. I am excited to start this new journey in a field that has tons of opportinuty and pushes me to be the 
+        best version of my self possible. Let me tell you a little bit about my self!
         </p>
         <p>
-        Echo Park sriracha Pinterest vegan biodiesel 90's irony iPhone Kickstarter Carles crucifix kitsch narwhal dreamcatcher pickled trust fund selvage art party letterpress Tumblr post-ironic kogi Thundercats Tonx Brooklyn Pitchfork Odd Future authentic normcore freegan leggings Schlitz chambray organic tousled retro fap squid street art church-key fashion axe Wes Anderson bespoke whatever gentrify banh mi you probably haven't heard of them American Apparel next level pug ugh.
+        My work journey hasnt always been in the technology field, before I started Coding Bootcamp I worked in the Natural/Organic Food Industry for 20years. I started at the bottom closing the meat department at my local supermarket and before I changed careers I was the Fresh Director for Wheatsville Food Co-Op.
+        
         </p>
       </div>
     </section>
