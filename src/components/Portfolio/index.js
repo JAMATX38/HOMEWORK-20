@@ -12,29 +12,35 @@ function Portfolio() {
       repo: "https://github.com/JAMATX38/project3.git"
     },
     {
-      name: 'pastel-puzzels',
+      name: 'Project 1 Travel Buddy',
       description: 'MERN Stack',
       link: "https://github.com",
-      repo: "https://github.com"
+      repo: "https://github.com/JAMATX38/TravelBuddyApp.git"
     },
     {
-      name: 'SWEEPERS PROJECT 2',
+      name: 'Project 2 Sweeper Cleaning App',
       description: 'MERN FULL STACK',
       link: "https://github.com",
       repo: "https://github.com/JAMATX38/Sweepers_Project_Two.git"
     },
     {
-      name: 'led-wall',
+      name: 'Workout Tracker',
       description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://jaime-workout-tracker.herokuapp.com/",
+      repo: "https://github.com/JAMATX38/HOMEWORK-18.git"
     },
     {
       name: 'Project 3 Inventory Database',
       description: 'React/JavaScript/CSS',
-      link: "https://jamatx38.github.io/HOMEWORK-18/",
-      repo: "https://github.com/JAMATX38/HOMEWORK-18.git"
+      link: "https://project3-jm.herokuapp.com/",
+      repo: "https://github.com/JAMATX38/project3.git"
     },
+    {
+      name: 'NoteTaker',
+      description: 'Express/Node',
+      link: "https://notetakerapp-jaime.herokuapp.com/",
+      repo: "https://github.com/JAMATX38/NoteTaker.git"
+    }
   ]);
 
   return (

@@ -5,17 +5,21 @@ function Footer() {
   // Replace links with social media profiles
   const icons = [
     {
-      name: "JAMATX38",
+      name: "fab fa-github",
       link: "https://github.com/JAMATX38"
     },
     {
       name: "fab fa-linkedin",
-      link: "https://www.linkedin.com/"
+      link: "https://www.linkedin.com/in/jaime-martinez-592b821b1"
     },
     {
-      name: "fab fa-stack-overflow",
-      link: "https://stackoverflow.com/"
-    }
+      name: "fab fa-twitter",
+      link: "https://twitter.com/"
+    },
+    {
+      name: "fab fa-facebook-f",
+      link: "https://www.facebook.com/profile.php?id=100073917406375"
+    },
   ]
 
   return (
